@@ -1,0 +1,12 @@
+{
+  "entity.the_stalkers.stalker": "The Stalker",
+  "entity.the_stalkers.goat_stalker": "The Goat Stalker",
+  "item.the_stalkers.stalker_spawn_egg": "The Stalker Spawn Egg",
+  "item.the_stalkers.goat_stalker_spawn_egg": "The Goat Stalker Spawn Egg",
+  "subtitle.the_stalkers.stalker_warn": "...watching...",
+  "subtitle.the_stalkers.goat_warn": "...a bleat in the dark...",
+  "subtitle.the_stalkers.knock": "*knock*",
+  "death.attack.stalker_kill": "%1$s was taken by The Stalker",
+  "death.attack.goat_kill": "%1$s was run down by The Goat Stalker",
+  "gui.the_stalkers.behind_you": "Behind You"
+}

@@ -1,0 +1,32 @@
+{
+  "stalker_warn": {
+    "category": "hostile",
+    "subtitle": "subtitle.the_stalkers.stalker_warn",
+    "sounds": [
+      {
+        "name": "the_stalkers:stalkerwarn",
+        "stream": false
+      }
+    ]
+  },
+  "goat_warn": {
+    "category": "hostile",
+    "subtitle": "subtitle.the_stalkers.goat_warn",
+    "sounds": [
+      {
+        "name": "the_stalkers:goatwarn",
+        "stream": false
+      }
+    ]
+  },
+  "knock": {
+    "category": "hostile",
+    "subtitle": "subtitle.the_stalkers.knock",
+    "sounds": [
+      {
+        "name": "the_stalkers:knock",
+        "stream": false
+      }
+    ]
+  }
+}
